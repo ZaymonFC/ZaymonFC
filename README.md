@@ -8,4 +8,4 @@ Favourite Emoji's: 🧪 ✨ ✍️ 👁
 
 `He/Him`
 
-🦈 I like solving fun and interesting problems using functional techniques 🦈
+🦈  I like solving fun and interesting problems using functional techniques 🦈
