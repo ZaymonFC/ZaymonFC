@@ -4,7 +4,7 @@ Favourite Emoji's: 🧪 ✨ ✍️ 👁
 
 🌇 Brisbane, Australia
 
-👨‍💻 - `Functional Programming`, `F#`, `Clojure`
+👨‍💻 - `Functional Programming`, `F#` and `Clojure`
 
 `He/Him`
 
