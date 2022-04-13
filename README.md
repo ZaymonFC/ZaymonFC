@@ -1,4 +1,4 @@
-Hi, I'm Zaymon, `He/Him`
+Hi, I'm Zaymon `He/Him`
 
 Currently building: [letterdesk.app](https://www.letterdesk.app)
 
