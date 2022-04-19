@@ -1,8 +1,10 @@
 Hi, I'm Zaymon `He/Him`
 
-Currently building: [letterdesk.app](https://www.letterdesk.app)
+Currently building: [letterdesk.app](https://www.letterdesk.app) ✍️
 
-Favourite Emoji's: 🧪 ✨ ✍️ 👁
+Currently writing: [boundless.garden](https://www.boundless.garden) 🌸
+
+Favourite Emoji's: ✨ ✍️ 👁 ⚡
 
 🌇 Brisbane, Australia
 
