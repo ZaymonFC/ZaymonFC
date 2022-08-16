@@ -10,6 +10,6 @@ Favourite Emoji's: ✨ ✍️ 👁 ⚡
 
 🌇 Brisbane, Australia
 
-👨‍💻 - `Functional Programming`, `Clojure`, `Typescript` + `React` and `F#`
+👨‍💻 - `Clojure`, `Typescript` + `React` and `F#`
 
 🦈  I like solving fun and interesting problems using functional techniques 🦈
