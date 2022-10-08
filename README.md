@@ -8,7 +8,7 @@ I currently spend my time building [LetterDesk.app](https://www.letterdesk.app),
 
 I'm writing for [Boundless.Garden](https://www.boundless.garden).
 
-If you're building software that aims to make the world better, expand how people think, or offers a new perspective on the human experience and you would like to talk to me, please get in touch.
+If you're building software that aims to make the world better, expand how people think, or offers a new perspective on the human experience and you would like to talk to me, [please get in touch](mailto:zaymon.antonio@protonmail.com).
 
 Regards,
 
