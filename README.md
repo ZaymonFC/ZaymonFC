@@ -1,15 +1,16 @@
-Hi, I'm Zaymon `He/Him`
+Dear Visitor,
 
-Currently building: [letterdesk.app](https://www.letterdesk.app) ✍️
+I'm a software engineer currently based in Brisbane, Australia. My passion is building software that enhances human connection and relationships.
 
-Currently writing: [boundless.garden](https://www.boundless.garden) 🌸
+The way software can create space for the user is fascinating. Software can empower people to think in new ways, facilitate self-discovery and explore the relationship between us and the world. I believe that software should aim to expand human awareness over profit maxing.
 
-About me: [Zaymon.dev](https://www.zaymon.dev) 💅
+I currently spend my time building [LetterDesk.app](https://www.letterdesk.app), a digital space that allows people to explore human experience together through letter writing and deep connection.
 
-Favourite Emoji's: ✨ ✍️ 👁 ⚡
+I'm writing for [Boundless.Garden](https://www.boundless.garden).
 
-🌇 Brisbane, Australia
+If you're building software that aims to make the world better, expand how people think, or offers a new perspective on the human experience and you would like to talk to me, please get in touch.
 
-👨‍💻 - `Clojure`, `Typescript` + `React` and `F#`
+Regards,
 
-🦈  I like solving fun and interesting problems using functional techniques 🦈
+Zaymon
+
